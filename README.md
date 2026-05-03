@@ -28,7 +28,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 - Campos: nombre, email, teléfono, contraseña
 - Navegación hacia login
 
-![Pantalla Registro](images/registro.png)
+![Pantalla Registro](evidencia/registro.png)
 
 ---
 
@@ -43,7 +43,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
   - Promociones (RecyclerView vertical)
 - Bottom Navigation funcional
 
-![Pantalla Home](images/home.png)
+![Pantalla Home](evidencia/home.png)
 
 ---
 
@@ -59,7 +59,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 - Botón de cerrar sesión
 - Items interactivos (click + ripple effect)
 
-![Pantalla Perfil](images/perfil.png)
+![Pantalla Perfil](evidencia/perfil.png)
 
 ---
 
