@@ -1,6 +1,10 @@
 # 🏨 Hotel Popayán App
 
-Aplicación móvil Android desarrollada en **Kotlin** que permite a los usuarios explorar alojamientos en Popayán, registrarse, iniciar sesión y gestionar su perfil dentro de una experiencia moderna tipo Airbnb.
+Aplicación móvil Android desarrollada en **Kotlin** que permite a los usuarios explorar alojamientos en Popayán, registrarse, iniciar sesión y gestionar su perfil dentro de una experiencia moderna.
+Equipo: 
+Juan camilo uni anacona
+Juan Pablo Cardona
+Juan Felipe Garcia 
 
 ---
 
