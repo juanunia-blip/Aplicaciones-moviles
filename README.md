@@ -28,7 +28,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 - Campos: nombre, email, teléfono, contraseña
 - Navegación hacia login
 
-![Pantalla Registro](evidencia/registro.png)
+![Pantalla Registro](evidencia/crearcuenta.png)
 
 ---
 
@@ -59,7 +59,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 - Botón de cerrar sesión
 - Items interactivos (click + ripple effect)
 
-![Pantalla Perfil](evidencia/perfil.png)
+![Pantalla Perfil](evidencia/crearcuenta.png)
 
 ---
 
