@@ -12,7 +12,12 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 
 ---
 
-## 🚀 Pantallas implementadas
+### 🚀 0. Splash Screen
+- Pantalla de carga inicial
+- Muestra logo de la aplicación
+- Transición automática al login 
+
+![Pantalla Login](evidencia/splash.png)
 
 ### 🔐 1. Login
 - Inicio de sesión de usuario
