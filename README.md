@@ -19,7 +19,7 @@ Actualmente se encuentra en fase de **MVP (Producto Mínimo Viable)** con enfoqu
 - Acceso a registro
 - Navegación al Home
 
-![Pantalla Login](images/login.png)
+![Pantalla Login](evidencia/login.png)
 
 ---
 
